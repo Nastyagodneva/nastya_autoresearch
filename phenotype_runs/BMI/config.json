@@ -1,0 +1,27 @@
+{
+  "target": "BMI",
+  "allowed_models": [
+    "elasticnet",
+    "ridge",
+    "pls",
+    "stacking_linear"
+  ],
+  "allowed_feature_sets": ["raw", "embed", "raw+embed"],
+  "fast_mode": true,
+  "max_train_samples": 1500,
+  "session_name": "BMI",
+
+  "data": {
+    "project_dir": "/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/DL_nastya",
+    "prepared_subdir": "prepared",
+    "files": {
+      "x_raw": "X_raw.parquet",
+      "x_embed": "X_embed.parquet",
+      "y": "y.parquet",
+      "splits": "splits.json"
+    }
+  },
+  "outputs": {
+    "results_csv": "results.csv"
+  }
+}

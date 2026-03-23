@@ -1,0 +1,95 @@
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+[agent_eval 1/54] target=BMI | feature_set=raw | model=elasticnet
+[agent_eval 2/54] target=BMI | feature_set=raw | model=lgbm
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.188903 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261306
+[LightGBM] [Info] Number of data points in the train set: 3233, number of used features: 1028
+[LightGBM] [Info] Start training from score 26.199342
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.124223 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261358
+[LightGBM] [Info] Number of data points in the train set: 4042, number of used features: 1028
+[LightGBM] [Info] Start training from score 26.211303
+[agent_eval 3/54] target=BMI | feature_set=raw | model=stacking
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.130482 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.129397 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261139
+[LightGBM] [Info] Total Bins 261134
+[LightGBM] [Info] Number of data points in the train set: 2586, number of used features: 1026
+[LightGBM] [Info] Number of data points in the train set: 2587, number of used features: 1026
+[LightGBM] [Info] Start training from score 26.206476
+[LightGBM] [Info] Start training from score 26.217484
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.162078 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.163109 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.168712 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261246
+[LightGBM] [Info] Total Bins 261106
+[LightGBM] [Info] Total Bins 261136
+[LightGBM] [Info] Number of data points in the train set: 2587, number of used features: 1026
+[LightGBM] [Info] Start training from score 26.184523
+[LightGBM] [Info] Number of data points in the train set: 2586, number of used features: 1026
+[LightGBM] [Info] Number of data points in the train set: 2586, number of used features: 1026
+[LightGBM] [Info] Start training from score 26.181039
+[LightGBM] [Info] Start training from score 26.207188
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.156372 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261316
+[LightGBM] [Info] Number of data points in the train set: 3233, number of used features: 1028
+[LightGBM] [Info] Start training from score 26.206230
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.163158 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261305
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.148654 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.131583 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Number of data points in the train set: 3234, number of used features: 1028
+[LightGBM] [Info] Total Bins 261266
+[LightGBM] [Info] Start training from score 26.218892
+[LightGBM] [Info] Total Bins 261312
+[LightGBM] [Info] Number of data points in the train set: 3233, number of used features: 1028
+[LightGBM] [Info] Start training from score 26.230835
+[LightGBM] [Info] Number of data points in the train set: 3234, number of used features: 1028
+[LightGBM] [Info] Start training from score 26.192984
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.175626 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 261310
+[LightGBM] [Info] Number of data points in the train set: 3234, number of used features: 1028
+[LightGBM] [Info] Start training from score 26.207579
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+/net/mraid20/ifs/wisdom/segal_lab/jafar/Nastya/.venv/lib/python3.10/site-packages/sklearn/utils/validation.py:2749: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(

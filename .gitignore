@@ -1,0 +1,9 @@
+prepared/
+*.parquet
+*.csv
+results*.csv
+agent_runs.csv
+run.log
+__pycache__/
+*.pyc
+.venv/
